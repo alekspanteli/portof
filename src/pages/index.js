@@ -6,7 +6,11 @@ import Header from '../components/Header';
 import SlideShow from '../components/SlideShow';
 
 var settings = {
-  images: [],
+  images: [
+    { url: require('../assets/images/796843.png'), position: 'center' },
+    { url: require('../assets/images/bg02.jpg'), position: 'center' },
+    { url: require('../assets/images/bg03.jpg'), position: 'center' },
+  ],
   // Delay.
   delay: 6000,
 };
