@@ -11,7 +11,7 @@ module.exports = {
   // social
   heading: 'Alex Panteli',
   subHeading:
-    "I'm Alex Panteli a Frontend Web Developer based in Limassol, Cyprus. I'm a mid level, professional and friendly digital specialist focusing on Frontend Web Development. A meticulous problem solver, I approach all tasks with energy, creativity and passion. I take pride in a job well done and enjoy working with like-minded, passionate individuals.",
+    "A passionate Frontend Web Developer based in Limassol, Cyprus. I'm a mid level, professional and friendly digital specialist focusing on Frontend Web Development. A meticulous problem solver, I approach all tasks with energy, creativity and passion. I take pride in a job well done and enjoy working with like-minded, passionate individuals.",
   socialLinks: [
     {
       icon: 'fa-envelope-o',
